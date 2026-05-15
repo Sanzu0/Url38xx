@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://xvideo-09.blogspot.com/`
+					`https://maddenwiped.com/qkjy1gpi?key=791d4298c5082a8cee4f8e8846036f8a`
 				}`,
 			},
 		};
